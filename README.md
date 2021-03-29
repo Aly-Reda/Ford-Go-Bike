@@ -43,9 +43,9 @@
 >## Weekday Distribution
 ![Weekday](https://i.ibb.co/kMSjQZS/Weekday.png)
 >## Gender Distribution
-![Gender](https://i.ibb.co/2M8Wky2/Gender.png)
+![Gender](https://i.ibb.co/L0M3ZGq/Gender.png)
 >## Age Distribution
-![Age](https://i.ibb.co/p3jjw9F/Age.png)
+![Age](https://i.ibb.co/cvwxp4v/Age.png)
 >## Gender Vs. Weekday Vs Duration, Distance and Speed
 ![Gender-Weekday-Duration-Distance-Speed](https://i.ibb.co/LZnGZk3/Gender-Weekday-Duration-Distance-Speed.png)
 >## Age Vs. Weekday Vs Duration, Distance and Speed
